@@ -69,23 +69,23 @@ sbn.heatmap(df.corr(),annot=True)
 ~~~
 ## OUTPUT:
 ## EDA - SuperStore.csv
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%201.jpg)
 ## Displaying information about Dataset
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%202.jpg)
 ## Checking the null values and Cleaning it
-![output]()
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%203.jpg)
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%204.jpg)
 ## Displaying datatypes of each features
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%205.jpg)
 ## Multivariate Analysis - Scatterplot
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%206.jpg)
 ## Multivariate Analysis - Barplot
-![output]()
-![output]()
-![output]()
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%207.jpg)
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%208.jpg)
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%209.jpg)
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%210.jpg)
 ## Correlation Coefficient Interpretation using HeatMap
-![output]()
-![output]()
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%211.jpg)
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%212.jpg)
 ## RESULT:
 Thus the program to perform EDA on the given data set is successfully executed.
