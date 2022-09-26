@@ -72,7 +72,6 @@ sbn.heatmap(df.corr(),annot=True)
 ![output]()
 ## Displaying information about Dataset
 ![output]()
-![output]()
 ## Checking the null values and Cleaning it
 ![output]()
 ![output]()
