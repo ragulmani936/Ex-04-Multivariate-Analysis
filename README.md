@@ -86,6 +86,6 @@ sbn.heatmap(df.corr(),annot=True)
 ![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%2010.jpg)
 ## Correlation Coefficient Interpretation using HeatMap
 ![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%2011.jpg)
-![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image%2012.jpg)
+![output](https://github.com/ragulmani936/Ex-04-Multivariate-Analysis/blob/main/image12.jpg)
 ## RESULT:
 Thus the program to perform EDA on the given data set is successfully executed.
